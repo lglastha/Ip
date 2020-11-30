@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-<title>와이파이 사용 약관 동의</title>
 <head></head>
 <body>
 <h1>와이파이 사용 약관 동의</h1> <br>
