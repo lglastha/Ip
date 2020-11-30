@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/lglastha/Ip/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lglastha/Ip/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+<title>와이파이 사용 약관 동의</title>
+<head></head>
+<body>
+<h1>와이파이 사용 약관 동의</h1> <br>
+<h2>사용자의 개인정보 보호</h2>
+1.우리(인터넷제공자)는 사용자의 정보를 수집하지 않습니다.<br>
+2.사용자의 기본정보는 보관되지 않으며 누구도 관람할수 없습니다.<br>
+<h2>사용자의 의무</h2>
+1.사용자는 와이파이에 접속하므로서 인터넷 정보를 수집지 않습니다.<br>
+2.사용자는 와이파이의 정보(비번)을 유출하지 않습니다.<br>
+3.사용자는 와이파이를 이용하므로서 가지는 기본 법율을 따라야 합니다.<br>
+4.사용자는 와이파이의 셋팅을 건드리지 않습니다.<br>
+<h2>인터넷 제공 약관</h2> 
+1.대역폭 확보를 위하여 1기기당 D:45Mbps U:55Mbps의 속도를 넘을수 업습니다 <br>
+2.쾌적한 인터넷 환경을 위하여 평일 19:00~23:00에는 인터넷 접속을 할수 없습니다.<br>
+3.사용자의 아이피 및 MAC주소를 수집하나 보관,유출하지 않습니다.<br>
+4.인터넷 접속을 누르는 순간 위 사항에 동의되었다고 간주되며, 그에따른 책임을 져야합니다. <br>
+5.인터넷 사용에는 책임이 따릅니다. 모두를 위한 인터넷 사용을 부탁드립니다.<br>
